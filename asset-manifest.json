@@ -9,7 +9,7 @@
     "main.c5413192.js.map": "./static/js/main.c5413192.js.map"
   },
   "entrypoints": [
-    "/static/css/main.d970beaa.css",
-    "/static/js/main.c5413192.js"
+    "static/css/main.d970beaa.css",
+    "static/js/main.c5413192.js"
   ]
 }
